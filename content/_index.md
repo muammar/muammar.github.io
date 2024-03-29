@@ -65,10 +65,10 @@ sections:
         - title: Principal Scientist
           company: Bristol-Myers-Squibb
           company_url: ''
-          company_logo: org-gc
-          location: Cambridge, MA
-          date_start: '2024-03-29'
-          date_end: ''
+          # company_logo: org-gc
+          location: Cambridge, MA, United States
+          date_start: '2020-11-30'
+          date_end: '2024-03-29'
           description: |2-
               Responsibilities include:
               * Report to the lead for Predictive Sciences of the IPS organization;
@@ -110,14 +110,73 @@ sections:
                 of predictive models to steer scientific discovery.
                 * Supervise and mentor interns to develop their careers and benefit
                 therapeutic programs at BMS.
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Postdoctoral Scholar
+          company: Lawrence Berkeley National Laboratory
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          # company_logo: ''
+          location: Berkeley, MA, United States
+          date_start: '2018-11-01'
+          date_end: '2020-09-30'
+          description: |2-
+              Responsibilities include:
+              * Developed a Python library to ease the deployment of machine learning models for chemistry and
+                materials sciences. https://github.com/muammar/ml4chem. This package is helping us advance our
+                research faster because we can consistently implement new methods.
+              * Developed a neural network model that can learn how to predict retention times from chromatography
+                data. These models can be used by experimentalists to get insights about the substances they study
+                without explicitly running the experiments.
+              * Applied autoencoders to extract features and systematically studied their topology to understand their
+                effect on the predictive power of models used for material sciences.
+              * Generated data sets using web-scraping and diversified their variance with active learning techniques.
+              * Worked on a project for Scaling Interactive Science for Data-Intensive Discovery for the Linac Coherent
+                Light Source (LCLS) at SLAC National Accelerator Laboratory.
+              * Led and designed research projects executed by summer interns.
+              * Wrote scientific publications to show our results to the community.
+        - title: Postdoctoral Research Associate
+          company: Brow University
+          company_url: ''
+          # company_logo: ''
+          location: Providence, RI, United States
+          date_start: '2016-10-10'
+          date_end: '2018-11-10'
+          description: |2-
+              Responsibilities include:
+              * Worked on the acceleration of electronic structure calculations using machine learning models 
+                to decrease orders of magnitude of the computational time needed by the simulations.
+              * Was actively involved in the development of the Atomistic Machine-learning Package (Amp) created
+                and maintained by the Catalyst Design Laboratory at Brown University 
+                https://bitbucket.org/andrewpeterson/amp.
+              * Implemented kernel ridge regression within an atom-centered mode in their machine-learning package.
+              * Participated in the design of scientific projects and supervision of students during their research
+                  in our laboratory.
+              * Presented scientific results in international conferences.
+        - title: PhD candidate in Theoretical Chemical Physics
+          company: Université Paul Sabatier
+          company_url: ''
+          # company_logo: ''
+          location: Toulouse, France
+          date_start: '2012-07-01'
+          date_end: '2015-07-07'
+          description: |2-
+              My Ph.D. thesis was titled:  "Characterization of metallic and insulating properties of low-dimensional systems."       
+        - title: Master in Theoretical Chemistry and Computational Modeling
+          company: Université Paul Sabatier, Università degli Studi di Perugia
+          company_url: ''
+          location: Toulouse, France and Perugia, Italy
+          date_start: '2010-09-01'
+          date_end: '2012-07-01'
+          description: |2-
+              I was awarded an Erasmus Mundus Scholarship to do my studies in different European universities. 
+              My dissertation was titled: "An ab initio potential energy surface for quantum reactive scattering calculations."
+        - title: B.S. in Chemistry
+          company: Universidad del Zulia, Venezuela
+          company_url: ''
+          location: Maracaibo, Venezuela
+          date_start: '2010-05-10'
+          date_end: '2001-10-01'
+          description: |2-
+              My dissertation was titled: "Determination of the Linear and Nonlinear Optical Properties of the Nitrogenous Bases of DNA, 
+              RNA and their respective tautomers."
     design:
       columns: '2'
   - block: accomplishments
