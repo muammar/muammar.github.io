@@ -72,20 +72,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Kung Fu
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: uniform-martial-arts
         icon_pack: fas
-      - name: Cats
+      - name: Guitar
         description: ''
         percent: 100
-        icon: cat
+        icon: guitars
         icon_pack: fas
-      - name: Photography
+      - name: Technology
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: microchip
         icon_pack: fas
 
 # Social/Academic Networking

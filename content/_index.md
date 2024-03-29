@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: hero
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Hugo Academic Theme
       image:
@@ -114,7 +114,7 @@ sections:
           company: Lawrence Berkeley National Laboratory
           company_url: ''
           # company_logo: ''
-          location: Berkeley, MA, United States
+          location: Berkeley, CA, United States
           date_start: '2018-11-01'
           date_end: '2020-09-30'
           description: |2-
