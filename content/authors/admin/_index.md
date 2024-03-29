@@ -53,20 +53,20 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Code
         description: ''
         percent: 80
-        icon: python
+        icon: code
         icon_pack: fab
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Physical Chemistry
         description: ''
         percent: 40
-        icon: database
+        icon: atom
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -98,29 +98,58 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link:  https://twitter.com/muammar
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=WBXXCScAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/muammar
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/muammarelkhatib/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/MuammarElKhatib_CV_en.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: "muammarelkhatib@gmail.com"
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Muammar is a principal scientist applying machine learning to solve
+problems in drug discovery at Bristol-Myers-Squibb. His research interests
+include machine learning, physical chemistry, and software solutions.
+
+He is a chemist by training from the University of Zulia in Venezuela and
+started his graduate studies with a European Master in Theoretical Chemistry
+and Computational modeling of the Erasmus Mundus Program. His Ph.D. in
+theoretical chemical physics was about the characterization of metallic and
+insulating properties of low-dimensional systems using the theory of the
+insulating state of Walter Kohn applied with wave function theory.
+
+He was a postdoctoral research associate at Brown University, where he worked
+in the acceleration of atomistic simulations with machine learning models in
+the group of Prof. Andrew A. Peterson in the Catalyst Design Laboratory. He
+acquired experience with neural networks and kernel ridge regression models
+to mimic quantum mechanics simulations using interatomic machine learning
+potentials in this appointment.
+
+At Lawerence Berkeley National Laboratory, he was a postdoctoral scholar
+working towards the development of machine learning approaches, algorithms
+and data sets to solve chemical science problems.
+
+He has published more than ten papers, given presentations at international
+conferences, and developed the ML4Chem machine learning package, a module for
+the MOLPRO quantum-chemistry package, and the atomistic machine-learning
+package (Amp). Additionally, he has participated in the free software
+community and is a Debian Linux developer.
 {style="text-align: justify;"}
