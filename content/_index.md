@@ -106,8 +106,7 @@ sections:
                 representative before the “Machine Learning for Pharmaceutical Discovery
                 and Synthesis Consortium” collaboration with the Massachusetts Institute
                 of Technology. For more information, see https://mlpds.mit.edu/.
-                * Implement and apply uncertainty quantification of epistemic uncertainty
-                of predictive models to steer scientific discovery.
+                * Implement and apply uncertainty quantification of predictive models to steer scientific discovery.
                 * Supervise and mentor interns to develop their careers and benefit
                 therapeutic programs at BMS.
         - title: Postdoctoral Scholar
