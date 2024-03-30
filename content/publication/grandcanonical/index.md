@@ -28,7 +28,7 @@ publication_short: ""
 abstract: A strategy is presented for the machine-learning emulation of electronic structure calculations carried out in the electronically grand-canonical ensemble. The approach relies upon a dual-learning scheme, where both the system charge and the system energy are predicted for each image. The scheme is shown to be capable of emulating basic electrochemical reactions at a range of potentials, and coupling it with a bootstrap-ensemble approach gives reasonable estimates of the prediction uncertainty. The method is also demonstrated to accelerate saddle-point searches, and to extrapolate to systems with one to five water layers. We anticipate that this method will allow for larger length- and time-scale simulations necessary for electrochemical simulations.
 
 # Summary. An optional shortened abstract.
-summary: Atomistic learning in the electronically grand-canonical ensemble..
+summary: Atomistic learning in the electronically grand-canonical ensemble.
 
 tags:
 - Source Themes
@@ -65,9 +65,9 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
-
+<!-- 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -76,4 +76,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
