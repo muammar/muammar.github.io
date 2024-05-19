@@ -85,7 +85,7 @@ sections:
               * Develop and maintain cutting-edge frameworks for the semantic integration and 
                intelligent retrieval of multidimensional chemical and biological data.
               * Facilitate and expand strategic partnerships with leading data vendors, academic 
-               pioneers, and technol- ogy innovators to advance Odyssey’s
+               pioneers, and technology innovators to advance Odyssey’s
                capabilities in cheminformatics and computational drug discovery.
               * Act as a pivotal thought leader, demystifying the complexities of cheminformatics 
               and machine learning for cross-functional teams, fostering a
