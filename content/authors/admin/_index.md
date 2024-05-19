@@ -21,8 +21,8 @@ role: Principal Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Soon
-    url: https://www.soon.edu/
+  - name: Odyssey Therapeutics
+    url: https://odysseytx.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning, electronic structure and software.
@@ -125,9 +125,10 @@ highlight_name: true
 email: "muammarelkhatib@gmail.com"
 ---
 
-Muammar is a principal scientist applying machine learning to solve
-problems in drug discovery at Bristol-Myers-Squibb. His research interests
-include machine learning, physical chemistry, and software solutions.
+Muammar is a Principal Scientist in Chemical Informatics and Machine Learning
+applying data-driven models to solve problems in drug discovery at Odyssey
+Therapeutics. His research interests include machine learning, physical
+chemistry, and software solutions.
 
 He is a chemist by training from the University of Zulia in Venezuela and
 started his graduate studies with a European Master in Theoretical Chemistry
@@ -147,7 +148,14 @@ At Lawerence Berkeley National Laboratory, he was a postdoctoral scholar
 working towards the development of machine learning approaches, algorithms
 and data sets to solve chemical science problems.
 
-He has published more than ten papers, given presentations at international
+His first work in the pharmaceutical field started at Bristol-Myers Squibb where
+he applied machine learning to the prediction of physicochemical properties to
+different assays of interest systematically studying a plethora of algorithms.
+He also introduced and championed the addition of uncertain quantification as a
+good practice in predictive models used for decision-making in the company,  and
+multi-task learning to build more robust methods.
+
+He has published more than ten papers, and given presentations at international
 conferences, and developed the ML4Chem machine learning package, a module for
 the MOLPRO quantum-chemistry package, and the atomistic machine-learning
 package (Amp). Additionally, he has participated in the free software
