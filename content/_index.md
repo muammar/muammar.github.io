@@ -62,9 +62,37 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Principal Scientist Chemical Informatics and Machine Learning
+          company: Odyssey Therapeutics
+          company_url: 'https://odysseytx.com'
+          # company_logo: org-gc
+          location: Boston, MA, United States
+          date_start: '2024-04-08'
+          # date_end: '2024-03-29'
+          description: |2-
+              Responsibilities include:
+              * Drive strategic implementation of chemical informatics and AI/ML
+               techniques to expedite drug discovery guided by the needs of
+               teams to advance Discovery assets to the clinic.
+              * Champion the integration of chemical informatics with proteomic
+               data, utilizing three-dimensional molecular modeling to
+               elucidate precise mechanisms of protein-ligand interactions,
+               critical for target validation and lead optimization.
+              * Orchestrate the synthesis and analysis of multidimensional datasets, with a 
+               focus on integrating 3D structural insights with chemical
+               properties to pioneer predictive models for molecular behavior
+               and drug efficacy.
+              * Develop and maintain cutting-edge frameworks for the semantic integration and 
+               intelligent retrieval of multidimensional chemical and biological data.
+              * Facilitate and expand strategic partnerships with leading data vendors, academic 
+               pioneers, and technol- ogy innovators to advance Odyssey’s
+               capabilities in cheminformatics and computational drug discovery.
+              * Act as a pivotal thought leader, demystifying the complexities of cheminformatics 
+              and machine learning for cross-functional teams, fostering a
+              culture of innovation and knowledge sharing.
         - title: Principal Scientist
           company: Bristol-Myers-Squibb
-          company_url: ''
+          company_url: 'https://www.bms.com'
           # company_logo: org-gc
           location: Cambridge, MA, United States
           date_start: '2020-11-30'
@@ -111,7 +139,7 @@ sections:
                 therapeutic programs at BMS.
         - title: Postdoctoral Scholar
           company: Lawrence Berkeley National Laboratory
-          company_url: ''
+          company_url: 'https://www.lbl.gov'
           # company_logo: ''
           location: Berkeley, CA, United States
           date_start: '2018-11-01'
@@ -133,7 +161,7 @@ sections:
               * Wrote scientific publications to show our results to the community.
         - title: Postdoctoral Research Associate
           company: Brow University
-          company_url: ''
+          company_url: 'https://www.brown.edu'
           # company_logo: ''
           location: Providence, RI, United States
           date_start: '2016-10-10'
@@ -151,7 +179,7 @@ sections:
               * Presented scientific results in international conferences.
         - title: PhD candidate in Theoretical Chemical Physics
           company: Université Paul Sabatier
-          company_url: ''
+          company_url: 'https://www.univ-tlse3.fr/home'
           # company_logo: ''
           location: Toulouse, France
           date_start: '2012-07-01'
@@ -169,7 +197,7 @@ sections:
               My dissertation was titled: "An ab initio potential energy surface for quantum reactive scattering calculations."
         - title: B.S. in Chemistry
           company: Universidad del Zulia, Venezuela
-          company_url: ''
+          company_url: 'http://www.luz.edu.ve'
           location: Maracaibo, Venezuela
           date_start: '2010-05-10'
           date_end: '2001-10-01'
