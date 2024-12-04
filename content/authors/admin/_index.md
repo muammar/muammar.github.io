@@ -75,12 +75,12 @@ skills:
       - name: Kung Fu
         description: ''
         percent: 60
-        icon: uniform-martial-arts
+        icon: heart
         icon_pack: fas
       - name: Guitar
         description: ''
         percent: 100
-        icon: guitars
+        icon: guitar
         icon_pack: fas
       - name: Technology
         description: ''
