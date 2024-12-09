@@ -125,39 +125,17 @@ highlight_name: true
 email: "muammarelkhatib@gmail.com"
 ---
 
-Muammar is a Principal Scientist in Chemical Informatics and Machine Learning
-applying data-driven models to solve problems in drug discovery at Odyssey
-Therapeutics. His research interests include machine learning, physical
-chemistry, and software solutions.
+Muammar is a Principal Scientist in Chemical Informatics and Machine Learning, applying data-driven models to solve problems in drug discovery at Odyssey Therapeutics. His research interests include machine learning, physical chemistry, and software solutions.
 
-He is a chemist by training from the University of Zulia in Venezuela and
-started his graduate studies with a European Master in Theoretical Chemistry
-and Computational modeling of the Erasmus Mundus Program. His Ph.D. in
-theoretical chemical physics was about the characterization of metallic and
-insulating properties of low-dimensional systems using the theory of the
-insulating state of Walter Kohn applied with wave function theory.
+He is a chemist by training from the University of Zulia in Venezuela. He started his graduate studies with a European Master in Theoretical Chemistry and Computational Modeling of the Erasmus Mundus Program. His Ph.D. in theoretical chemical physics was about the characterization of metallic and insulating properties of low-dimensional systems using Walter Kohn's theory of the insulating state applied with wave function theory.
 
-He was a postdoctoral research associate at Brown University, where he worked
-in the acceleration of atomistic simulations with machine learning models in
-the group of Prof. Andrew A. Peterson in the Catalyst Design Laboratory. He
-acquired experience with neural networks and kernel ridge regression models
-to mimic quantum mechanics simulations using interatomic machine learning
+He was a postdoctoral research associate at Brown University, where he worked in the acceleration of atomistic simulations with machine learning models in the group of Prof. Andrew A. Peterson in the Catalyst Design Laboratory. He acquired experience with neural networks and kernel ridge regression models to mimic quantum mechanics simulations using interatomic machine learning
 potentials in this appointment.
 
-At Lawerence Berkeley National Laboratory, he was a postdoctoral scholar
-working towards the development of machine learning approaches, algorithms
-and data sets to solve chemical science problems.
+At Lawrence Berkeley National Laboratory, he was a postdoctoral scholar working towards the development of machine learning approaches, algorithms, and data sets to solve chemical science problems.
 
-His first work in the pharmaceutical field started at Bristol-Myers Squibb where
-he applied machine learning to the prediction of physicochemical properties to
-different assays of interest systematically studying a plethora of algorithms.
-He also introduced and championed the addition of uncertain quantification as a
-good practice in predictive models used for decision-making in the company,  and
-multi-task learning to build more robust methods.
+His first work in the pharmaceutical field started at Bristol-Myers Squibb, where he applied machine learning to the prediction of physicochemical properties to different assays of interest systematically studying a plethora of algorithms.
+He also introduced and championed the addition of uncertain quantification as a good practice in predictive models used for decision-making in the company and multi-task learning to build more robust methods.
 
-He has published more than ten papers, and given presentations at international
-conferences, and developed the ML4Chem machine learning package, a module for
-the MOLPRO quantum-chemistry package, and the atomistic machine-learning
-package (Amp). Additionally, he has participated in the free software
-community and is a Debian Linux developer.
+He has published more than ten papers, given presentations at international conferences, and developed the ML4Chem machine-learning package, a module for the MOLPRO quantum-chemistry package, and the atomistic machine-learning package (Amp). Additionally, he has participated in the free software community and is a Debian Linux developer.
 {style="text-align: justify;"}
