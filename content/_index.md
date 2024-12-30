@@ -199,8 +199,8 @@ sections:
           company: Universidad del Zulia, Venezuela
           company_url: 'http://www.luz.edu.ve'
           location: Maracaibo, Venezuela
-          date_start: '2010-05-10'
-          date_end: '2001-10-01'
+          date_start: '2001-10-01'
+          date_end: '2010-05-10'
           description: |2-
               My dissertation was titled: "Determination of the Linear and Nonlinear Optical Properties of the Nitrogenous Bases of DNA, 
               RNA and their respective tautomers."
