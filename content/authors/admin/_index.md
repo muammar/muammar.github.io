@@ -25,7 +25,7 @@ organizations:
     url: https://odysseytx.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, electronic structure and software.
+bio: My research interests include machine learning, electronic structure and software development.
 
 # Interests to show in About widget
 interests:
@@ -58,7 +58,7 @@ skills:
         percent: 80
         icon: code
         icon_pack: fab
-      - name: Data Science
+      - name: Data Science / ML
         description: ''
         percent: 100
         icon: chart-line
@@ -74,7 +74,7 @@ skills:
     items:
       - name: Kung Fu
         description: ''
-        percent: 60
+        percent: 100
         icon: heart
         icon_pack: fas
       - name: Guitar
@@ -84,7 +84,7 @@ skills:
         icon_pack: fas
       - name: Technology
         description: ''
-        percent: 80
+        percent: 70
         icon: microchip
         icon_pack: fas
 
