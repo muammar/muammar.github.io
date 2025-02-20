@@ -55,7 +55,7 @@ skills:
     items:
       - name: Code
         description: ''
-        percent: 80
+        percent: 70
         icon: code
         icon_pack: fab
       - name: Data Science / ML
@@ -65,7 +65,7 @@ skills:
         icon_pack: fas
       - name: Physical Chemistry
         description: ''
-        percent: 40
+        percent: 100
         icon: atom
         icon_pack: fas
   - name: Hobbies
@@ -98,8 +98,8 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link:  https://twitter.com/muammar
-    label: Follow me on Twitter
+    link:  https://x.com/muammar
+    label: Follow me on X
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
