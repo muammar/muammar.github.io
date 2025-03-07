@@ -376,11 +376,11 @@ sections:
       # coordinates:
       #   latitude: '37.4275'
       #   longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/muammar'
+      #contact_links:
+      #  - icon: twitter
+      #    icon_pack: fab
+      #    name: DM Me
+      #   link: 'https://x.com/muammar'
         # - icon: skype
         #  icon_pack: fab
         #  name: Skype Me
