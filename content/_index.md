@@ -356,7 +356,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I provide two ways you can contact me. 
+        Send me an email. 
       # Contact (add or remove contact options as necessary)
       email: muammar [at] muammar [dot] me
       # phone: 888 888 88 88
