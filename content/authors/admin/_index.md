@@ -72,10 +72,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Kung Fu
+      - name: Photography
         description: ''
         percent: 100
-        icon: heart
+        icon: camera
         icon_pack: fas
       - name: Guitar
         description: ''
