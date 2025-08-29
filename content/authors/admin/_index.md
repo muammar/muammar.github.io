@@ -134,5 +134,5 @@ At Lawrence Berkeley National Laboratory, he was a postdoctoral scholar working 
 His first work in the pharmaceutical field started at Bristol-Myers Squibb, where he applied machine learning to the prediction of physicochemical properties to different assays of interest, systematically studying a plethora of algorithms.
 He also introduced and championed the addition of uncertain quantification as a good practice in predictive models used for decision-making in the company and multi-task learning to build more robust methods.
 
-He has published more than ten papers, given presentations at international conferences, and developed the ML4Chem machine-learning package, a module for the MOLPRO quantum-chemistry package, and the atomistic machine-learning package (Amp). Additionally, he has participated in the free software community and is a Debian Linux developer.
+He has published more than ten papers, given presentations at international conferences, and developed the ML4Chem machine-learning package, a module for the MOLPRO quantum-chemistry package, and the atomistic machine-learning package (Amp). Additionally, he has participated in the free software community and was a Debian Linux developer.
 {style="text-align: justify;"}
