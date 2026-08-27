@@ -87,21 +87,28 @@ skills:
         percent: 70
         icon: microchip
         icon_pack: fas
-
-# Languages to show in the Languages widget
-languages:
-  - name: Spanish
-    label: Native
-    percent: 100
-  - name: English
-    label: Proficient
-    percent: 98
-  - name: French
-    label: Proficient
-    percent: 82
-  - name: Mandarin
-    label: HSK1
-    percent: 20
+  - name: Languages
+    items:
+      - name: Spanish
+        description: Native
+        percent: 100
+        icon: language
+        icon_pack: fas
+      - name: English
+        description: Proficient
+        percent: 98
+        icon: language
+        icon_pack: fas
+      - name: French
+        description: Proficient
+        percent: 82
+        icon: language
+        icon_pack: fas
+      - name: Mandarin
+        description: HSK1
+        percent: 20
+        icon: language
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
