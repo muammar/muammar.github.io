@@ -50,6 +50,11 @@ sections:
       username: admin
     design:
       columns: '1'
+  - block: resume-languages
+    content:
+      title: Languages
+      # Choose a user to display languages from (a folder name within `content/authors/`)
+      username: admin
   - block: experience
     content:
       title: Experience

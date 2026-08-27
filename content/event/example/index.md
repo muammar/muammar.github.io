@@ -1,6 +1,6 @@
 ---
 title: Example Talk
-noindex: true
+private: true
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
